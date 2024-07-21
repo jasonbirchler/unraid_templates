@@ -24,7 +24,7 @@ https://github.com/automatic-ripping-machine/automatic-ripping-machine/wiki/Dock
 </Overview>
   <Category>Backup:</Category>
   <WebUI>http://[IP]:[PORT:8080]/</WebUI>
-  <TemplateURL/>
+  <TemplateURL>https://raw.githubusercontent.com/jasonbirchler/unraid_templates/main/automatic-ripping-machine/automatic-ripping-machine.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/automatic-ripping-machine/automatic-ripping-machine/main/favicon.ico</Icon>
   <ExtraParams>--runtime=nvidia   --device /dev/sr0 --device /dev/sg3</ExtraParams>
   <PostArgs/>
